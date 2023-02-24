@@ -1,0 +1,56 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    background-image: url("https://s2.best-wallpaper.net/wallpaper/2560x1600/1901/Space-red-galaxy-stars_2560x1600.jpg")
+}
+li {color:rgb(255, 0, 0)}
+div li {color:crimson}
+img {border: 4px solid cyan}
+div { border:1 solid gray;
+margin: 5px;
+padding: 5px;
+}
+#a { background-color: rgba(0, 0, 0, 0.267);
+    color:rgb(255, 255, 255);
+}
+#b {
+    background-color: rgba(0, 0, 0, 0.300);
+    float:left;
+    width: 230px;
+    margin-top: 0;
+    color:chartreuse;
+    font-size: 20px;
+    width: 200px;
+    height: 200px;
+}
+#c {
+    background-color: rgba(0, 0, 0, 0.300);
+    margin-left: 252px;
+    margin-right: 252px;
+    height: 190px;
+    color:chartreuse;
+    font-size: 20px;
+}
+#d {
+    background-color:rgba(0, 0, 0, 0.300);
+    float:right;
+    width: 200px;
+    height: 200px;
+    margin-top: 0;
+    color:chartreuse;
+    font-size: 20px
+}
+#e {
+    background-color: rgba(0, 0, 0, 0.300);
+    text-align: center;
+    clear:both;
+    color:chartreuse;
+    font-size: 20px
+}
+
+#h {
+   font-size: 25px;
+   color:aliceblue;
+   background-color: rgba(0, 0, 0, 0.300);  
+}
+
